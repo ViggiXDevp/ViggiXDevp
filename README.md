@@ -1,1 +1,1 @@
-Auhtor - Vighnesh Reddy
+Auhtor - G V Vighnesh Reddy
