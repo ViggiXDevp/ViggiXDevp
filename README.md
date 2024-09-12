@@ -16,10 +16,10 @@
 <p align="center">
 <a href="https://https://www.threads.net/@vighnesh_reddy07"><img alt="Threads" src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white"></a>
 <a href="https://https://www.instagram.com/vighnesh_reddy07/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://leetcode.com/u/ViggyDevp/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white"></a>
+<a href="https://leetcode.com/u/ViggiXDevp/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white"></a>
 <a href="https://https://www.hackerrank.com/profile/vighnesh_24bai11"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 <a href="https://https://www.linkedin.com/in/vighneshreddy/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/ViggyDevp"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/vighneshreddy7"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="mailto:vighnesh.24bai10374@vitbhopal.ac.in"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/ViggiXDevp"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
