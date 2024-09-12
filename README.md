@@ -1,5 +1,5 @@
 <h1 align="center">
-  नमस्कार:! I'm ViggyDevp!
+  नमस्कार:! I'm ViggiXDevp!
 </h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ViggyDevp/ViggyDevp/blob/main/Assets/image.png" width="80%">
+  <img src="https://github.com/ViggiXDevp/ViggiXDevp/blob/main/Assets/image.png" width="80%">
 </p>
 
 ### 🤝 Connect with me:
@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/viggydevp/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/ViggyDevp"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="mailto:viggydevp@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/ViggyDevp"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/ViggiXDevp"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
   
@@ -29,16 +29,16 @@
 
 <!-- STREAKS and STATS -->
 <p align="center">
-  <img alt="ViggyDevp's Github Streaks" src="https://streak-stats.demolab.com/?user=ViggyDevp&theme=gotham" />
-  <img alt="ViggyDevp's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ViggyDevp&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=301"/>
+  <img alt="ViggiXDevp's Github Streaks" src="https://streak-stats.demolab.com/?user=ViggiXDevp&theme=gotham" />
+  <img alt="ViggiXDevp's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ViggiXDevp&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=301"/>
 </p>
 
 ## Contribution Graphs
 
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViggyDevp&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViggiXDevp&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViggyDevp&theme=radical" height=auto width=80%"  />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViggiXDevp&theme=radical" height=auto width=80%"  />  
 </p>
 
 ## 🛠 My favorite tools
