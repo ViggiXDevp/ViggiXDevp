@@ -35,6 +35,15 @@
 
 ## Contribution Graphs
 
+<!-- 3D Contribution Graph -->
+<img src="profile-3d-contrib/profile-night-view.svg" alt="contribution-graph-3d" width="100%">
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViggiXDevp&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViggiXDevp&theme=radical" height=auto width=80%"  />  
+</p>
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViggiXDevp&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 <p align="center">
