@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ViggiXDevp/ViggiXDevp/blob/main/Assets/image.png" width="80%">
+  <img src="https://github.com/ViggiXDevp/ViggiXDevp/blob/main/Assets/image.gif" width="80%">
 </p>
 
 ### 🤝 Connect with me:
