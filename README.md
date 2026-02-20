@@ -14,7 +14,7 @@
 ### 🤝 Connect with me:
 
 <p align="center">
-<a href="https://www.threads.net/@vighnesh_reddy07"><img alt="Threads" src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white"></a>
+<a href="https://www.threads.net/vighnesh_reddy07"><img alt="Threads" src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white"></a>
 <a href="https://www.instagram.com/vighnesh_reddy07/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://leetcode.com/u/ViggiXDevp/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white"></a>
 <a href="https://www.hackerrank.com/gvvighneshreddy1"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
