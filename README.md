@@ -37,7 +37,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture> -->
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%">       
+<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D contribution graph" width="100%">       
 
 ## Contribution Graphs
 
